@@ -2,7 +2,6 @@
 layout: default
 title: getting-started
 nav_order: 2
-parent: 'Home'
 ---
 
 # How to install the CoLRev project in Python?
